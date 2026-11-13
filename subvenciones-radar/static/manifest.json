@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "short_name": "SubvenRadar",
+  "name": "SubvenRadar - Becas y Subvenciones",
+  "description": "Radar semanal de becas, ayudas y subvenciones en Comunitat Valenciana, España y Europa",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "productivity", "business", "education"],
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/money-bag.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/money-bag.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
